@@ -15,14 +15,15 @@
       "streamSettings": {
         "network": "ws",
         "wsSettings": {
-          "path": "/t.me/ragnarservers"
+          "path": "/ragnarservers"
         }
       }
     }
   ],
   "outbounds": [
     {
-      "protocol": "freedom"
+      "protocol": "freedom",
+      "settings": {}
     }
   ]
 }
