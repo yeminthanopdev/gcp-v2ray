@@ -6,7 +6,7 @@
       "settings": {
         "clients": [
           {
-            "id": "a3b7de87-b46f-4dcf-b6ed-5bf5ebe83167",
+            "id": "36459fd0-0c89-4733-b20e-067ffc341bd2",
             "level": 0
           }
         ],
@@ -15,7 +15,7 @@
       "streamSettings": {
         "network": "ws",
         "wsSettings": {
-          "path": "/ragnarservers"
+          "path": "/TG-@Not_Ragnar"
         }
       }
     }
