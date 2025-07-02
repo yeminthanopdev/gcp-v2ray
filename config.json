@@ -1,12 +1,12 @@
 {
   "inbounds": [
     {
-      "port": 4329,
+      "port": 8080,
       "protocol": "vless",
       "settings": {
         "clients": [
           {
-            "id": "5e1ca487-fd21-4d49-ad77-d83253902854",
+            "id": "3d60513e-d072-4e18-b0e8-212d4e286e74",
             "level": 0
           }
         ],
